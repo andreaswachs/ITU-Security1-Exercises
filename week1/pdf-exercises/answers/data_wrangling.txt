@@ -1,0 +1,4 @@
+Exercise 3.4
+
+command: cat /usr/share/dict/words | rg e | wc -l
+319635 ord contained the letter `e` in the `/usr/share/dict/words` file
